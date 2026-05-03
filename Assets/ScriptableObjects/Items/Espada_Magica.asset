@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ff36c0903cebb4aaf1591295fd5f4a, type: 3}
+  m_Name: Espada_Magica
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Espada Magica
+  description: Filo encantado por un mago errante.
+  icon: {fileID: 0}
+  type: 0
+  rarity: 1
+  slotsWidth: 1
+  slotsHeight: 1
+  stackMax: 1
+  reqLevel: 5
+  reqSTR: 12
+  reqDEX: 0
+  reqINT: 0
+  bonusSTR: 0
+  bonusVIT: 0
+  bonusINT: 2
+  bonusDEX: 0
+  bonusHP: 0
+  bonusMana: 0
+  bonusPhysDamage: 10
+  bonusMagicDamage: 5
+  bonusDefense: 0
+  bonusMoveSpeed: 0
+  bonusAttackSpeed: 0
+  weaponType: 0
+  minDamage: 12
+  maxDamage: 18
+  healHP: 0
+  healMana: 0
+  buyPrice: 350
+  sellPrice: 70
+  goldAmount: 0
